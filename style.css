@@ -21,7 +21,7 @@ header p {
 }
 
 .logos img {
-    height: 20px;   /* subtle size */
+    height: 40px;   /* subtle size */
     object-fit: contain;
 }
 
